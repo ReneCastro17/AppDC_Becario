@@ -1,0 +1,63 @@
+﻿@using AppDC_Hernández.Models.ViewModel
+@model ReclamoViewModel
+
+<h2 class="mb-4">Nuevo Reclamo</h2>
+
+<form method="post" asp-action="Guardar">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="NombreProveedor" class="form-label"></label>
+        <input asp-for="NombreProveedor" class="form-control" />
+        <span asp-validation-for="NombreProveedor" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DireccionProveedor" class="form-label"></label>
+        <input asp-for="DireccionProveedor" class="form-control" />
+        <span asp-validation-for="DireccionProveedor" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NombresConsumidor" class="form-label"></label>
+        <input asp-for="NombresConsumidor" class="form-control" />
+        <span asp-validation-for="NombresConsumidor" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="ApellidosConsumidor" class="form-label"></label>
+        <input asp-for="ApellidosConsumidor" class="form-control" />
+        <span asp-validation-for="ApellidosConsumidor" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DUI" class="form-label"></label>
+        <input asp-for="DUI" class="form-control" />
+        <span asp-validation-for="DUI" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DettalleReclamo" class="form-label"></label>
+        <textarea asp-for="DettalleReclamo" class="form-control" rows="3"></textarea>
+        <span asp-validation-for="DettalleReclamo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MontoReclamado" class="form-label"></label>
+        <input asp-for="MontoReclamado" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="MontoReclamado" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Telefono" class="form-label"></label>
+        <input asp-for="Telefono" class="form-control" />
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar Reclamo</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

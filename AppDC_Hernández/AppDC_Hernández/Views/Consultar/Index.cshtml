@@ -1,0 +1,39 @@
+﻿@model List<AppDC_Hernández.Models.TReclamo>
+
+<h2 class="mb-4">Listado de Reclamos</h2>
+
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Proveedor</th>
+            <th>Dirección</th>
+            <th>Consumidor</th>
+            <th>DUI</th>
+            <th>Detalle</th>
+            <th>Monto ($)</th>
+            <th>Teléfono</th>
+            <th>Fecha</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            if (item.MontoReclamado >= 25)
+            {
+                <tr>
+                    <td>@item.IdReclamo</td>
+                    <td>@item.NombreProveedor</td>
+                    <td>@item.DireccionProveedor</td>
+                    <td>@item.NombresConsumidor @item.ApellidosConsumidor</td>
+                    <td>@item.Dui</td>
+                    <td>@item.DettalleReclamo</td>
+                    <td>@(item.MontoReclamado.HasValue ? item.MontoReclamado.Value.ToString("F2") : "N/A")</td>
+                    <td>@item.Telefono</td>
+                    <td>@item.FechaIngrese.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+

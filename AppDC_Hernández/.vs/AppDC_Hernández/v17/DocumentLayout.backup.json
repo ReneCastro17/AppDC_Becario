@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\controllers\\agregarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\controllers\\agregarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\views\\reclamos\\reclamo_hoja.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\views\\reclamos\\reclamo_hoja.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\models\\viewmodel\\reclamoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\models\\viewmodel\\reclamoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\controllers\\consultarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\controllers\\consultarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\views\\consultar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\views\\consultar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\models\\dbecariohernandezcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\models\\dbecariohernandezcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|c:\\users\\eduhe\\source\\repos\\appdc_hern\u00E1ndez\\appdc_hern\u00E1ndez\\models\\treclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA28726-A512-4228-BD01-237B59E31A03}|AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez.csproj|solutionrelative:appdc_hern\u00E1ndez\\models\\treclamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReclamoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Models\\ViewModel\\ReclamoViewModel.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Models\\ViewModel\\ReclamoViewModel.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Models\\ViewModel\\ReclamoViewModel.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Models\\ViewModel\\ReclamoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T03:08:00.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reclamo_Hoja.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Views\\Reclamos\\Reclamo_Hoja.cshtml",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Views\\Reclamos\\Reclamo_Hoja.cshtml",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Views\\Reclamos\\Reclamo_Hoja.cshtml",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Views\\Reclamos\\Reclamo_Hoja.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-06T23:58:27.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Views\\Consultar\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Views\\Consultar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Views\\Consultar\\Index.cshtml",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Views\\Consultar\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T00:17:18.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultarController.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Controllers\\ConsultarController.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Controllers\\ConsultarController.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Controllers\\ConsultarController.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Controllers\\ConsultarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T00:12:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarController.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Controllers\\AgregarController.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Controllers\\AgregarController.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Controllers\\AgregarController.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Controllers\\AgregarController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:57:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T00:05:39.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:49:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Program.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Program.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Program.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:40:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\appsettings.json",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\appsettings.json",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\appsettings.json",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T23:35:46.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TReclamo.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Models\\TReclamo.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Models\\TReclamo.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Models\\TReclamo.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Models\\TReclamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:35:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbecarioHernandezContext.cs",
+              "DocumentMoniker": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Models\\DbecarioHernandezContext.cs",
+              "RelativeDocumentMoniker": "AppDC_Hern\u00E1ndez\\Models\\DbecarioHernandezContext.cs",
+              "ToolTip": "C:\\Users\\eduhe\\source\\repos\\AppDC_Hern\u00E1ndez\\AppDC_Hern\u00E1ndez\\Models\\DbecarioHernandezContext.cs",
+              "RelativeToolTip": "AppDC_Hern\u00E1ndez\\Models\\DbecarioHernandezContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T23:27:36.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
